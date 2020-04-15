@@ -1,8 +1,8 @@
 {
   "name": "uts-web3",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://gentaxxx.github.io/UTS-Web3",
+  "private": true,
+  "homepage": "https://GENTAXXX.github.io/UTS-Web3",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
